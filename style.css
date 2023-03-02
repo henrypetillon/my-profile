@@ -1,0 +1,59 @@
+body{
+	background-color: 255, 255, 255;
+	color:rgb(70, 70, 70);
+	font-family: font-family: 'Spectral', serif;
+	font-weight: 100;
+	letter-spacing: 1px;
+}
+.profil {
+	border-radius: 50%;
+}
+h1 {
+font-family: 'IBM Plex Sans Arabic', sans-serif;	
+color: white;}
+
+
+ h2 {
+font-family: 'IBM Plex Sans Arabic', sans-serif;	
+color: orange;}
+
+h3 {
+font-family: 'IBM Plex Sans Arabic', sans-serif;
+color: white;
+}
+
+a{color: orange;
+	text-decoration: none;}
+
+img{
+	border-radius: 50%;
+	width: 25%}
+
+
+#link-bottom{
+	color: white;
+	background-color: orange;
+	padding: 20x 25px;
+	border-radius: 4px; 
+
+}
+#link-bottom{
+background-color: orange;
+color: gray;
+
+}
+
+.fist-inline{
+	list-style: none;
+	padding-left: 0px;
+}
+
+.fist-inline li {
+	display: inline;
+	padding: 15px;
+	font-size: 34px;
+	align-items: center;
+}
+.fist-inline i {
+	font size: 120px;
+}
